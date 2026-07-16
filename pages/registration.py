@@ -15,7 +15,7 @@ email = st.text_input(
     "email"
     
 )
-course = set.text_input(
+course = st.text_input(
     "course"
 )
 
